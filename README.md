@@ -39,5 +39,5 @@ Here, the qualitative result of the controller for the rocket is shown below.
 - [Part 3: Intro to Policy Optimization](https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html)
 - [2018 Practical 4: Reinforcement Learning](https://github.com/deep-learning-indaba/indaba-2018/blob/master/Practical_4_Reinforcement_Learning.ipynb)
 - [2019 Practical 4: Reinforcement Learning](https://github.com/deep-learning-indaba/indaba-pracs-2019/blob/master/4b_reinforcement_learning.ipynb)
-- [Derivatives of Logarithmic Functions](https://brilliant.org/wiki/derivative-of-logarithmic-functions/)
+- [Derivatives of Logarithmic Functions](https://brilliant.org/wiki/derivative-of-logarithmic-functions/#derivative-of-lnfx)
 - [PyTorch Lightning](https://lightning.ai/docs/pytorch/latest/)
